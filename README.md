@@ -1,2 +1,2 @@
 # docker-nodejs-app
-This repository explains how to dockerize a Node JS application.
+This repository dockerizes a Node JS application.

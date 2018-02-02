@@ -1,0 +1,23 @@
+{
+  "name": "docker-nodejs-app",
+  "version": "1.0.0",
+  "description": "This repository dockerizes a Node JS application.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArghaPaul2013/docker-nodejs-app.git"
+  },
+  "author": "Argha Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArghaPaul2013/docker-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/ArghaPaul2013/docker-nodejs-app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
