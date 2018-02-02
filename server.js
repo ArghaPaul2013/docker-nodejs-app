@@ -5,7 +5,7 @@ const port = 8090;
 
 //Define request response in root URL (/)
 server.get('/', function (req, res) {
-  res.send('Hello World!');
+  res.send('nginx works great!');
 });
 
 //Launch listening server on port 8080
